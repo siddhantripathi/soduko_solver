@@ -1,5 +1,5 @@
 # soduko_solver
-Sudoku solver with GUI using backtracking algorithm 
+Sudoku solver with GUI 
 
 This is the finished GUI version.
 
