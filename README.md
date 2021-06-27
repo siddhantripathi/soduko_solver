@@ -13,6 +13,7 @@ Finally to solve the board press SPACE
 Output
 
 Unsolved
+
 ![alt text]https://github.com/siddhantripathi/soduko_solver/blob/main/Unsolved.PNG
 
 Solved
